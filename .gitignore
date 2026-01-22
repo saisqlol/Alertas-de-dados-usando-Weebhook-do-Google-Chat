@@ -1,0 +1,6 @@
+# Arquivos de configuração e chaves
+chave.json
+params.py
+
+# Cache do Python
+__pycache__/
